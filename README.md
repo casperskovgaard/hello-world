@@ -1,3 +1,3 @@
 # hello-world
 Testing
-REady to first commit
+Ready to first commit
